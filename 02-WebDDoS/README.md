@@ -1,6 +1,6 @@
 ## 【支援士.exe #2】Web / DDoS
 ### 動画
-[【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://www.youtube.com/watch?v=shzxxHEUryA&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=2&t=2037s)
+[【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://www.youtube.com/watch?v=lZWXdp9wuko&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=3)
 
 ### 支援士のキーワード
 「サービス妨害攻撃/パスワードリスト攻撃」<br>

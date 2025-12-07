@@ -18,9 +18,9 @@ TryHackMe / Windows PrivEsc（Windows 特権昇格）/ Task12<br>
 ## 実行するコマンド
 ※`<targetIP>`は起動したマシンのIPアドレスに変更してください
 
-#### 【Task1】RDPで脆弱なWindowsを起動
+#### 【Task1】脆弱なWindowsにRDP接続
 ```
-# RDPで脆弱なWindowsを起動<br>
+# 脆弱なWindowsにRDP接続する<br>
 xfreerdp /u:user /p:password321 /cert:ignore /v:<targetIP>
 
 # ユーザを確認

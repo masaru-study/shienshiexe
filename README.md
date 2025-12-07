@@ -12,8 +12,8 @@
 セキュリティに興味を持つきっかけになるような、楽しく学べる内容をお届けしております！
 
 ### 出演者
-- まさる（教育系Youtuber）<br>
-- epika（セキュリティエンジニア）<br><br>
+- まさる（教育系Youtuber）<br>[Xアカウント @masaru_benkyou](https://x.com/masaru_benkyou)
+- epika（セキュリティエンジニア）<br>[Xアカウント @epika025](https://x.com/epika025)<br><br>
 
 
 ## リンク
@@ -26,5 +26,5 @@
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/01-PassTheHash)
 
 #### 【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme
-- [動画](https://www.youtube.com/watch?v=shzxxHEUryA&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=2&t=2037s)
+- [動画](https://www.youtube.com/watch?v=lZWXdp9wuko&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=3)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/02-WebDDoS)
