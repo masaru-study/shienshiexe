@@ -26,5 +26,5 @@
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/01-PassTheHash)
 
 #### 【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme
-- [動画]()
+- [動画](https://www.youtube.com/watch?v=shzxxHEUryA&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=2&t=2037s)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/02-WebDDoS)
