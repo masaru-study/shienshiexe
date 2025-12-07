@@ -10,7 +10,6 @@
 ### 学習環境
 TryHackMe / Detecting Web DDoS（Web攻撃の検知）/ Task4 & Task5<br>
 [https://tryhackme.com/room/detectingwebddos](https://tryhackme.com/room/detectingwebddos)<br><br>
-
 ※確認のみ<br>
 TryHackMe / Detecting Web Attacks（Web DDoS攻撃の検知）/ Task4<br>
 [https://tryhackme.com/room/detectingwebattacks](https://tryhackme.com/room/detectingwebattacks)
@@ -21,25 +20,30 @@ TryHackMe / Detecting Web Attacks（Web DDoS攻撃の検知）/ Task4<br>
 ※Detecting Web Attacksは無料アカウントでも可
 
 
-#### 【Task4】
-- DoS攻撃のログを確認する
-``` # 今いる場所を確認する
-    pwd
-    # ログファイルを開く
-cd Desktop/
-    wc access.log
-    cat access.log
-    # 攻撃者のIPアドレスを特定する
-    awk -F- '{print $1}' access.log | sort -u
-    # 異常なステータスコードを特定する
-    # ※<特定したIPアドレス>の部分は見つけた値に置き換えてください
-    grep <特定したIPアドレス> access.log
+#### 【Task4】DoS攻撃のログを確認する
+```
+# 今いる場所を確認する
+pwd
 
-Task5
-- DDoS攻撃のログを確認する
-    # access_ddos.logファイルを確認する
-    /home/ubuntu/Documents/access_ddos.log
-    cd ../Documents/
-    wc access_ddos.log
-    # 攻撃者のIPアドレスを特定する
-    awk -F- '{print $1}' access_ddos.log | sort -u
+# ログファイルを開く
+cd Desktop/
+wc access.log
+cat access.log
+
+# 攻撃者のIPアドレスを特定する
+awk -F- '{print $1}' access.log | sort -u
+
+# 異常なステータスコードを特定する
+# ※<特定したIPアドレス>の部分は見つけた値に置き換えてください
+grep <特定したIPアドレス> access.log
+```
+#### 【Task5】DDoS攻撃のログを確認する
+```
+# access_ddos.logファイルを確認する
+/home/ubuntu/Documents/access_ddos.log
+cd ../Documents/
+wc access_ddos.log
+
+# 攻撃者のIPアドレスを特定する
+awk -F- '{print $1}' access_ddos.log | sort -u
+```
