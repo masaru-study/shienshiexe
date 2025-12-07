@@ -17,7 +17,7 @@
 
 
 ## リンク
-####【 支援士.exeの再生リスト】
+#### 【 支援士.exeの再生リスト】
 - [動画再生リスト](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
 
 
