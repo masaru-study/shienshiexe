@@ -17,9 +17,10 @@ epika（セキュリティエンジニア）
 
 
 ## リンク
-[支援士.exeの再生リスト](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
+** 【支援士.exeの再生リスト】**
+[再生リスト](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
 
 
-【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme
+** 【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme **
 - [動画](https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA)
 - [コマンド]()
