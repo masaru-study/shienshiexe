@@ -1,5 +1,5 @@
 # 支援士.exe
-![title](https://github.com/user-attachments/assets/3ec491ba-f469-4a2e-9cd3-c0d184e2d54f)
+![banner](https://github.com/user-attachments/assets/cd4697b6-5999-4917-9c46-36db0af4e9e7)
 ## 説明
 まさるの勉強部屋の動画シリーズ『支援士.exe』で使用するコマンドなどの置き場所です。
 
@@ -10,11 +10,15 @@
 
 試験対策だけでなく、現場で役立つ実践スキルを身につけることを目指しています。<br>
 セキュリティに興味を持つきっかけになるような、楽しく学べる内容をお届けしております！
+![title2](https://github.com/user-attachments/assets/0bd373d9-b1c7-4db8-a0b2-6f56f6a7d543)
 
 ### 出演者
 - まさる（教育系Youtuber）<br>Xアカウント [@masaru_benkyou](https://x.com/masaru_benkyou)
 - epika（セキュリティエンジニア）<br>Xアカウント [@epika025](https://x.com/epika025) 
 <br><br>
+![title](https://github.com/user-attachments/assets/3ec491ba-f469-4a2e-9cd3-c0d184e2d54f)
+
+
 
 ## リンク
 #### 【 支援士.exeの再生リスト】

@@ -1,4 +1,6 @@
 # 【支援士.exe #1】Pass the Hash / NTLM
+![title](https://github.com/user-attachments/assets/2b0e0624-2920-41b0-b79b-ed8b0fc17a66)
+
 ### 動画
 [【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme](https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA)
 

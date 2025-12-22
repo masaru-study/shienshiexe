@@ -1,4 +1,6 @@
 # 【支援士.exe #2】Web / DDoS
+![title](https://github.com/user-attachments/assets/849fd6b4-de6a-4b8c-90c1-b281ca303e85)
+
 ### 動画
 [【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://www.youtube.com/watch?v=shzxxHEUryA&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=2&t=2037s)
 
